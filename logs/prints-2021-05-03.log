@@ -1,0 +1,9 @@
+11:37:42.448 [TestNG-tests-1] INFO  Base - Driver is initilize
+11:37:42.534 [TestNG-tests-1] INFO  Base - Clicked on login link
+11:37:42.741 [TestNG-tests-1] INFO  Base - Email Sent
+11:37:42.804 [TestNG-tests-1] INFO  Base - password sent 
+11:37:42.851 [TestNG-tests-1] INFO  Base - Clicked on login button
+15:30:01.628 [TestNG-tests-1] INFO  Base - Driver is initilize
+15:30:48.510 [main] INFO  Base - Driver is initilize
+15:30:48.595 [main] INFO  Base - Clicked on login link
+15:30:48.795 [main] INFO  Base - Email Sent

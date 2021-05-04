@@ -37,8 +37,8 @@ public class HomePage extends Base {
         log.info("password sent ");
         logObj.getSubmitButton().click();
         log.info("Clicked on login button");
-        //assert logObj.getLoginLink().isDisplayed();
-        Assert.assertTrue(true);
+        assert logObj.getLoginLink().isDisplayed();
+        //Assert.assertTrue(true);
 
     }
 

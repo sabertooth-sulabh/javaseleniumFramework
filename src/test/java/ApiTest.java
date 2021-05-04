@@ -12,6 +12,7 @@ public class ApiTest {
     @Test
     public void postJira(){
         System.out.println("PostJiera");
+        System.out.println("PostJiera2");
         Assert.assertTrue(true);
     }
 }
